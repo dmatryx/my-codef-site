@@ -1,5 +1,5 @@
 ---
-title: "Simple page"
+title: "Home Page"
 date: 2020-07-05T15:28:05+01:00
 draft: false
 ---
